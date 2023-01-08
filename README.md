@@ -1,3 +1,1 @@
-# pagination-task 
-
-https://animated-daffodil-faf0c6.netlify.app/
+# pagination-task https://animated-daffodil-faf0c6.netlify.app/
